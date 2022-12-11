@@ -1,11 +1,7 @@
-# Codigo 90: syncDropbox
+# Codigo numero 91
 
-## ¿Que hace?
+## ¿como funciona?
 Sincroniza cojn dropbox, mueve un archivo y abre dropbox 
-
-### **Observaciones**
-Ninguna
-
 ```bash
 #!/bin/bash
 
