@@ -1,3 +1,9 @@
+# Codigo 22: tooLong
+
+## ¿Que hace?
+Traduce las primeras 72 líneas del archivo de texto para entenderlas
+```bash
+
 #!/bin/bash
 
 width=72
