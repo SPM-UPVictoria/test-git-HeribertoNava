@@ -1,3 +1,10 @@
+# Codigo numero 51
+
+## ¿como funciona?
+Realiza un backup en un archivo.zip de un directorio
+
+```bash
+
 #!/bin/bash
 
 compress="bzip2"   
